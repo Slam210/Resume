@@ -1,0 +1,43 @@
+.Title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #3a86ff;
+    border-bottom: 1px solid black;
+}
+
+body{
+    font-size: 15px;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+a {
+    color: blue;
+}
+
+#Header{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#HeaderName{
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+#HeaderInfo{
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+
+.LeftRightInfo {
+    padding: 5px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.JobTitle{
+    padding-left: 5px;
+}
